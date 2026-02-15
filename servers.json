@@ -1,0 +1,16 @@
+{
+  "servers": [
+    {
+      "name": "USA",
+      "url": "https://raw.githubusercontent.com/ameer-dude/supersimplevpn/main/USA.ovpn"
+    },
+    {
+      "name": "Singapore",
+      "url": "https://raw.githubusercontent.com/ameer-dude/supersimplevpn/main/SG.ovpn"
+    },
+    {
+      "name": "Japan",
+      "url": "https://raw.githubusercontent.com/ameer-dude/supersimplevpn/main/JP.ovpn"
+    }
+  ]
+}
