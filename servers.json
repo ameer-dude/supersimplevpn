@@ -2,15 +2,15 @@
   "servers": [
     {
       "name": "USA",
-      "url": "https://raw.githubusercontent.com/ameer-dude/supersimplevpn/refs/heads/main/USA.ovpn"
+      "url": "https://raw.githubusercontent.com/ameer-dude/supersimplevpn/main/USA.ovpn"
     },
     {
-      "name": "Japan 1",
-      "url": "https://raw.githubusercontent.com/ameer-dude/supersimplevpn/refs/heads/main/Japan%201.ovpn"
+      "name": "Japan1",
+      "url": "https://raw.githubusercontent.com/ameer-dude/supersimplevpn/main/Japan1.ovpn"
     },
     {
       "name": "Korea",
-      "url": "https://raw.githubusercontent.com/ameer-dude/supersimplevpn/refs/heads/main/Korea.ovpn"
+      "url": "https://raw.githubusercontent.com/ameer-dude/supersimplevpn/main/Korea.ovpn"
     }
   ]
 }
